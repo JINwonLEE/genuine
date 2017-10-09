@@ -2,6 +2,6 @@ Welcome to Jiwon Lee
 
 Repository
 
-//This is personal repository//
+THIS IS PERSONAL REPOSITORY
 
 
