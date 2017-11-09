@@ -11,7 +11,7 @@ int main() {
     int alphabet_[26];
     fill_n(alphabet_, 26, 0);
     locale loc;
-     
+    
     for (int i = 0; i < st.length(); i++) {
         st[i] = tolower(st[i], loc);
         alphabet_[st[i] - 'a']++;
@@ -31,6 +31,5 @@ int main() {
             }
         }
     }
-    
     return 0;
 }
