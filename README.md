@@ -1,7 +1,5 @@
-Welcome to Jiwon Lee 
+Welcome to Jiwon Lee's Repository 
 
-Repository
-
-THIS IS PERSONAL REPOSITORY
+It is for storing practice code in BaekJoon Online
 
 
