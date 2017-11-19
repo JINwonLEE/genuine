@@ -1,5 +1,6 @@
-Welcome to Jiwon Lee's Repository 
+Welcome to Jiwon Lee's coding practice repository 
 
-It is for storing practice code in BaekJoon Online
+
+For improving coding skills!!!!!
 
 
