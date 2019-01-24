@@ -48,7 +48,7 @@ int main() {
     mid = arr[(num + 1) / 2 - 1];
     interv = arr[num-1] - arr[0];
     
-    cout << av_ << endl;
+    cout << static_cast<int>(av_) << endl;
     cout << mid << endl;
     cout << freq << endl;
     cout << interv << endl;
