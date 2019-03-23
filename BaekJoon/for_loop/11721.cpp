@@ -8,7 +8,6 @@ int main() {
     cin >> line;
     int index = 0;
 
-    
     while (index < line.length()) {
         if (line.length() - index < 10) {
             for (int i = index; i < line.length(); i++) {
@@ -16,8 +15,7 @@ int main() {
             }
             cout << endl;
             break;
-        }
-        else {
+        } else {
             for (int i = 0; i < 10; i++) {
                 cout << line[index + i];
             }
@@ -25,6 +23,6 @@ int main() {
             index += 10;
         }
     }
-    
+
     return 0;
 }

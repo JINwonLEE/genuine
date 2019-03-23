@@ -11,7 +11,7 @@ int main() {
     int sum = 0;
 
     for (int i = 0; i < N; i++) {
-        sum += nums[i] - '0' ;
+        sum += nums[i] - '0';
     }
     cout << sum << endl;
 

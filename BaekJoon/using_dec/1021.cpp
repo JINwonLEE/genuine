@@ -1,8 +1,7 @@
-#include <iostream>
 #include <deque>
+#include <iostream>
 
 using namespace std;
-
 
 int getNumOfCircle(int extract_, deque<int>& arr, int& len) {
     bool forward = true;
@@ -27,8 +26,7 @@ int getNumOfCircle(int extract_, deque<int>& arr, int& len) {
         }
         arr.pop_front();
         len--;
-    }
-    else {
+    } else {
         int element = arr.back();
         while (extract_ != element) {
             arr.pop_back();
@@ -42,7 +40,7 @@ int getNumOfCircle(int extract_, deque<int>& arr, int& len) {
         count++;
         len--;
     }
-    
+
     return count;
 }
 
@@ -53,11 +51,9 @@ int main() {
     cin >> length_ >> num_of_extract;
     deque<int> order;
     for (int i = 0; i < length_; i++) {
-        order.push_back(i+1);
+        order.push_back(i + 1);
     }
 
-    
-    
     // Get the order of extraction
     int ext = 0;
     int count = 0;
