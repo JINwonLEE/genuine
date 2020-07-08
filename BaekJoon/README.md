@@ -22,6 +22,7 @@ BaekJoon
 | 10817 | [세 수](https://www.acmicpc.net/problem/10817) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/10817.cpp) |
 | 10828 | [스택](https://www.acmicpc.net/problem/10828) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/10828.cpp) |
 | 10845 | [큐](https://www.acmicpc.net/problem/10845) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/10845.cpp) |
+| 1085 | [직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1085.cpp) |
 | 10869 | [사칙연산](https://www.acmicpc.net/problem/10869) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/10869.cpp) |
 | 10871 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/10871.cpp) |
 | 10950 | [A+B - 3](https://www.acmicpc.net/problem/10950) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/10950.cpp) |
@@ -106,5 +107,4 @@ BaekJoon
 | 9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/9095.cpp) |
 | 9426 | [중앙값 측정](https://www.acmicpc.net/problem/9426) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/9426.cpp) |
 | 9498 | [시험 성적](https://www.acmicpc.net/problem/9498) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/9498.cpp) |
-
 This repository references [jwkim1993's leetcode](https://github.com/jwkim1993/leetcode)
