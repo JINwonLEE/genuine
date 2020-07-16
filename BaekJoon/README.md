@@ -94,6 +94,7 @@ BaekJoon
 | 2908 | [상수](https://www.acmicpc.net/problem/2908) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2908.cpp) |
 | 2920 | [음계](https://www.acmicpc.net/problem/2920) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2920.cpp) |
 | 2941 | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2941.cpp) |
+| 3053 | [택시 기하학](https://www.acmicpc.net/problem/3053) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/3053.cpp) |
 | 4344 | [평균은 넘겠지](https://www.acmicpc.net/problem/4344) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/4344.cpp) |
 | 4673 | [셀프 넘버](https://www.acmicpc.net/problem/4673) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/4673.cpp) |
 | 4948 | [베르트랑 공준](https://www.acmicpc.net/problem/4948) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/4948.cpp) |
@@ -107,4 +108,5 @@ BaekJoon
 | 9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/9095.cpp) |
 | 9426 | [중앙값 측정](https://www.acmicpc.net/problem/9426) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/9426.cpp) |
 | 9498 | [시험 성적](https://www.acmicpc.net/problem/9498) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/9498.cpp) |
+
 This repository references [jwkim1993's leetcode](https://github.com/jwkim1993/leetcode)
