@@ -95,6 +95,7 @@ BaekJoon
 | 2920 | [음계](https://www.acmicpc.net/problem/2920) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2920.cpp) |
 | 2941 | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2941.cpp) |
 | 3053 | [택시 기하학](https://www.acmicpc.net/problem/3053) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/3053.cpp) |
+| 4153 | [직각삼각형](https://www.acmicpc.net/problem/4153) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/4153.cpp) |
 | 4344 | [평균은 넘겠지](https://www.acmicpc.net/problem/4344) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/4344.cpp) |
 | 4673 | [셀프 넘버](https://www.acmicpc.net/problem/4673) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/4673.cpp) |
 | 4948 | [베르트랑 공준](https://www.acmicpc.net/problem/4948) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/4948.cpp) |
