@@ -24,7 +24,9 @@ BaekJoon
 | 10845 | [큐](https://www.acmicpc.net/problem/10845) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/10845.cpp) |
 | 1085 | [직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1085.cpp) |
 | 10869 | [사칙연산](https://www.acmicpc.net/problem/10869) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/10869.cpp) |
+| 10870 | [피보나치 수5](https://www.acmicpc.net/problem/10870) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/10870.cpp) |
 | 10871 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/10871.cpp) |
+| 10872 | [팩토리얼](https://www.acmicpc.net/problem/10872) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/10872.cpp) |
 | 10950 | [A+B - 3](https://www.acmicpc.net/problem/10950) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/10950.cpp) |
 | 10952 | [A+B - 5](https://www.acmicpc.net/problem/10952) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/10952.cpp) |
 | 10989 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/10989.cpp) |
