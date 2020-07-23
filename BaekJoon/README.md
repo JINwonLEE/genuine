@@ -73,6 +73,7 @@ BaekJoon
 | 2439 | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2439.cpp) |
 | 2440 | [별 찍기 - 3](https://www.acmicpc.net/problem/2440) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2440.cpp) |
 | 2441 | [별 찍기 - 4](https://www.acmicpc.net/problem/2441) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2441.cpp) |
+| 2447 | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2447.cpp) |
 | 2448 | [별 찍기 - 11](https://www.acmicpc.net/problem/2448) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2448.cpp) |
 | 2504 | [괄호의 값](https://www.acmicpc.net/problem/2504) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2504.cpp) |
 | 2557 | [Hello World](https://www.acmicpc.net/problem/2557) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2557.cpp) |
