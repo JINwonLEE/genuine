@@ -91,6 +91,7 @@ BaekJoon
 | 2751 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2751.cpp) |
 | 2753 | [윤년](https://www.acmicpc.net/problem/2753) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2753.cpp) |
 | 2775 | [부녀회장이 될테야](https://www.acmicpc.net/problem/2775) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2775.cpp) |
+| 2798 | [블랙잭](https://www.acmicpc.net/problem/2798) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2798.cpp) |
 | 2839 | [설탕 배달](https://www.acmicpc.net/problem/2839) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2839.cpp) |
 | 2869 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2869.cpp) |
 | 2884 | [알람 시계](https://www.acmicpc.net/problem/2884) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2884.cpp) |
