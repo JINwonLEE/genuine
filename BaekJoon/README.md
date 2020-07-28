@@ -76,6 +76,7 @@ BaekJoon
 | 2447 | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2447.cpp) |
 | 2448 | [별 찍기 - 11](https://www.acmicpc.net/problem/2448) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2448.cpp) |
 | 2504 | [괄호의 값](https://www.acmicpc.net/problem/2504) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2504.cpp) |
+| 2523 | [별 찍기 - 13](https://www.acmicpc.net/problem/2523) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2523.cpp) |
 | 2557 | [Hello World](https://www.acmicpc.net/problem/2557) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2557.cpp) |
 | 2558 | [A+B - 2](https://www.acmicpc.net/problem/2558) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2558.cpp) |
 | 2577 | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2577.cpp) |
