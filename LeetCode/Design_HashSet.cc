@@ -1,21 +1,25 @@
 class MyHashSet {
 public:
-    set<int> container;
+    bool* container;
     /** Initialize your data structure here. */
     MyHashSet() {
+        container = new bool[1000001];
+        for (int i = 0; i < 1000001; i++) {
+            container[i] = false;
+        }
     }
     
     void add(int key) {
-        container.insert(key);
+        container[key] = true;
     }
     
     void remove(int key) {
-        if (container.count(key)) container.erase(key);
+        container[key] = false;
     }
     
     /** Returns true if this set contains the specified element */
     bool contains(int key) {
-        return container.count(key);
+        return container[key];
     }
 };
 
