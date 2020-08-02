@@ -7,6 +7,7 @@ BaekJoon
 |---| ----- | -------- | 
 | 1000 | [A+B](https://www.acmicpc.net/problem/1000) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1000.cpp) |
 | 1001 | [A-B](https://www.acmicpc.net/problem/1001) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1001.cpp) |
+| 1002 | [터렛](https://www.acmicpc.net/problem/1002) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1002.cpp) |
 | 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1003.cpp) |
 | 10039 | [평균 점수](https://www.acmicpc.net/problem/10039) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/10039.cpp) |
 | 1008 | [A/B](https://www.acmicpc.net/problem/1008) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1008.cpp) |
