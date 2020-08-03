@@ -70,6 +70,7 @@ BaekJoon
 | 2108 | [통계학](https://www.acmicpc.net/problem/2108) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2108.cpp) |
 | 2163 | [초콜릿 자르기](https://www.acmicpc.net/problem/2163) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2163.cpp) |
 | 2167 | [2차원 배열의 합](https://www.acmicpc.net/problem/2167) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2167.cpp) |
+| 2231 | [분해합](https://www.acmicpc.net/problem/2231) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2231.cpp) |
 | 2292 | [벌집](https://www.acmicpc.net/problem/2292) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2292.cpp) |
 | 2438 | [별 찍기 - 1](https://www.acmicpc.net/problem/2438) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2438.cpp) |
 | 2439 | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/2439.cpp) |
@@ -110,6 +111,7 @@ BaekJoon
 | 5622 | [다이얼](https://www.acmicpc.net/problem/5622) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/5622.cpp) |
 | 6064 | [카잉 달력](https://www.acmicpc.net/problem/6064) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/6064.cpp) |
 | 7287 | [등록](https://www.acmicpc.net/problem/7287) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/7287.cpp) |
+| 7568 | [덩치](https://www.acmicpc.net/problem/7568) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/7568.cpp) |
 | 8393 | [합](https://www.acmicpc.net/problem/8393) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/8393.cpp) |
 | 8958 | [OX퀴즈](https://www.acmicpc.net/problem/8958) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/8958.cpp) |
 | 9012 | [괄호](https://www.acmicpc.net/problem/9012) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/9012.cpp) |
