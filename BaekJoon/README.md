@@ -14,6 +14,7 @@ BaekJoon
 | 1011 | [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1011.cpp) |
 | 10171 | [고양이](https://www.acmicpc.net/problem/10171) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/10171.cpp) |
 | 10172 | [개](https://www.acmicpc.net/problem/10172) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/10172.cpp) |
+| 1018 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1018.cpp) |
 | 1021 | [회전하는 큐](https://www.acmicpc.net/problem/1021) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1021.cpp) |
 | 10250 | [ACM 호텔](https://www.acmicpc.net/problem/10250) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/10250.cpp) |
 | 10430 | [나머지](https://www.acmicpc.net/problem/10430) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/10430.cpp) |
