@@ -57,6 +57,7 @@ BaekJoon
 | 1316 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1316.cpp) |
 | 1330 | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1330.cpp) |
 | 1427 | [소트인사이드](https://www.acmicpc.net/problem/1427) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1427.cpp) |
+| 1436 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1436.cpp) |
 | 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1463.cpp) |
 | 14681 | [사분면 고르기](https://www.acmicpc.net/problem/14681) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/14681.cpp) |
 | 1475 | [방 번호](https://www.acmicpc.net/problem/1475) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1475.cpp) |
