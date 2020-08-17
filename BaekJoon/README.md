@@ -42,6 +42,7 @@ BaekJoon
 | 1152 | [단어의 개수](https://www.acmicpc.net/problem/1152) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1152.cpp) |
 | 1157 | [단어 공부](https://www.acmicpc.net/problem/1157) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1157.cpp) |
 | 1158 | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1158.cpp) |
+| 11650 | [아스키 코드](https://www.acmicpc.net/problem/11650) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/11650.cpp) |
 | 11654 | [아스키 코드](https://www.acmicpc.net/problem/11654) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/11654.cpp) |
 | 11718 | [그대로 출력하기](https://www.acmicpc.net/problem/11718) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/11718.cpp) |
 | 11719 | [그대로 출력하기 2](https://www.acmicpc.net/problem/11719) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/11719.cpp) |
