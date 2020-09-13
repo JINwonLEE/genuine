@@ -64,6 +64,7 @@ BaekJoon
 | 1475 | [방 번호](https://www.acmicpc.net/problem/1475) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1475.cpp) |
 | 1546 | [평균](https://www.acmicpc.net/problem/1546) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1546.cpp) |
 | 15552 | [빠른 A+B](https://www.acmicpc.net/problem/15552) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/15552.cpp) |
+| 15649 | [N과 M (1)](https://www.acmicpc.net/problem/15649) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/15649.cpp) |
 | 1874 | [스택 수열](https://www.acmicpc.net/problem/1874) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1874.cpp) |
 | 19236 | [청소년 상어](https://www.acmicpc.net/problem/19236) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/19236.cpp) |
 | 1924 | [2007년](https://www.acmicpc.net/problem/1924) | [C++](https://github.com/JINwonLEE/genuine/blob/master/BaekJoon/1924.cpp) |
